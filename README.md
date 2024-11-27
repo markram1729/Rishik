@@ -6,7 +6,7 @@ ___
 - 🏫  &nbsp; B.tech in ECE + CS @ <a href="https://www.iitbhilai.ac.in/">IIT Bhilai</a>
 - 💻  &nbsp; Development in c,c++
 - 🛠  &nbsp; Interests: Computer Architecture,open hardware,OS,Pogramming Languages
-- ✉️   &nbsp; Reach me @ Twitter:<a href=" https://twitter.com/ram_rishik"> ram_rishik</a>
+- ✉️   &nbsp; Reach me @ Twitter: [ram_rishik](https://x.com/ram_rishik)
 - 💬  &nbsp; Love to chat about Scifi movies,food,math 
 - 😎  &nbsp; Enjoy Badminton,Reading Novels(Dan Brown).
 <br></br>
